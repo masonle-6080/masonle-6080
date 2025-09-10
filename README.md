@@ -4,7 +4,7 @@ My name is Mason Le, and I am currently pursuing a degree in Computer Science at
 
 Feel free to contact me through LinkedIn or email me at masonle65@gmail.com
 
-[Linked In] (https://www.linkedin.com/in/mason-le-68b75a274/)
+[Linked In](https://www.linkedin.com/in/mason-le-68b75a274/)
 
 <!--
 **masonle-6080/masonle-6080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
