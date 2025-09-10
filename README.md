@@ -1,6 +1,6 @@
 ## Hi!
 
-My name is Mason Le, and I am currently pursuing a degree in Computer Science at UC Santa Barbara. I am eager to expand my skills, gain hands-on experience, and explore different areas within the field. 
+My name is **Mason Le**, and I am currently pursuing a degree in Computer Science at UC Santa Barbara. I am eager to expand my skills, gain hands-on experience, and explore different areas within the field. 
 
 Feel free to contact me through LinkedIn or email me at masonle65@gmail.com
 
